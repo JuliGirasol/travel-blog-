@@ -1,0 +1,131 @@
+body {
+    font-size: 16px;
+    margin: 0px auto 0px auto;
+    width: 100%
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#mapid {
+    height: 50vh;
+    width: 100%;
+    left: 0;
+}
+
+#content {
+    color:black ;
+    width: 70%;
+    margin: auto;
+    font-family:Arial,Helvetica, sans-serif;
+    text-align:center;
+   
+}
+
+
+div#header {
+    padding: 12px 0px 12px 0px;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+   
+}
+
+
+
+div#logo a {
+    color: #C0C0C0;
+    float: center;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    /*font-family: 'Hoefler text', serif;*/
+    display: none;
+}
+
+
+div #navigation {
+    /*font-family: 'Hoefler text', serif;*/
+    background: white;
+    font-weight: light;
+   
+   
+}
+
+
+ 
+div #header{
+    color: black;
+    background: white;
+    height: 3em;
+   
+}
+
+
+.navbar-fixed {
+  position: fixed;
+  text-align: center;
+  height: 3 em;
+  width: 100%;
+  top: -3em;
+  left:0;
+  right:0;
+  margin: auto;
+}
+
+
+
+div#header #navigation a {
+    color: black;
+    font-size: 18px;
+    font-weight: normal;
+    margin-left: 12px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+div#footer {
+    border-top: solid 2px black;
+    color: #555;
+    font-size: 12px;
+    margin-top: 30px;
+    padding: 12px 0px 12px 0px;
+    text-align: right;
+    
+}
+
+
+#navigation {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+    
+
+}
+
+
+a:hover {border-bottom:1px solid #808080}
+
+
+
+h1 {
+    font-size: 28px;
+    color: #000000;
+    text-align: center;
+}
+
+
+
+h2 {
+    font-size: 20px;
+    color: #808080;
+             
+   
+
+               
+}
+
+div.info {
+    color: #000000;
+    font-size: 14px;
+    font-style: italic;
+    
+}
